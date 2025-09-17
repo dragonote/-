@@ -1,12 +1,13 @@
 /* Virtual Bookshelf Styles */
 :root {
-  --primary-color: #005dd3 --secondary-color: #589ed6;
-  --accent-color: #6cff8c3b;
-  --text-color: #394053;
-  --bg-color: #f8f9fa;
-  --border-color: #dee2e6;
-  --shadow-color: rgba(0, 0, 0, 0.1);
-  --book-width: 160px;
+  --primary-color: #005dd3;  
+  --secondary-color: #1589ed6; 
+  --accent-color: #193450;   
+  --bg-color: #1C1E2A;      
+  --card-bg-color: #191e2d;  
+  --text-color: #f0f0f0;    
+  --border-color: #2a2c3a;   
+  --shadow-color: rgba(0, 0, 0, 0.5);  --book-width: 160px;
   --book-height: 240px;
 }
 
