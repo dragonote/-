@@ -54,10 +54,14 @@ body {
 
 /* Header Styles */
 .header {
+  height: 237px;
   background: #F7F3E4;
   background-image: url("ue.png");
   background-position: center;
   background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  justify-content: center;
   color: white;
   padding: 2rem 0;
 }
