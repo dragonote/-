@@ -1,0 +1,400 @@
+{
+  "exportDate": "2025-09-28T10:57:28.290Z",
+  "books": {
+    "B013HF83DA": {
+      "title": "ダンジョン飯 2巻 (HARTA COMIX)",
+      "authors": "九井 諒子",
+      "acquiredTime": 1741667626497,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/51u6VTQhqgL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758086815141,
+      "memo": "",
+      "rating": 0
+    },
+    "B00S0E4JW8": {
+      "title": "ダンジョン飯 1巻 (HARTA COMIX)",
+      "authors": "九井 諒子",
+      "acquiredTime": 1741667626487,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/51-nH3DgO2L.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758086815141,
+      "memo": "",
+      "rating": 0
+    },
+    "B01JY4SIBK": {
+      "title": "ダンジョン飯 3巻 (HARTA COMIX)",
+      "authors": "九井 諒子",
+      "acquiredTime": 1741667626295,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/51SoPTIHbcL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758086815141,
+      "memo": "",
+      "rating": 0
+    },
+    "B07Q3BMDH7": {
+      "title": "ダンジョン飯 7巻 (HARTA COMIX)",
+      "authors": "九井 諒子",
+      "acquiredTime": 1741667584020,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/51A8Ip9Op6L.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758086815141,
+      "memo": "",
+      "rating": 0
+    },
+    "B0B7R8RD4X": {
+      "title": "ダンジョン飯 12巻 (HARTA COMIX)",
+      "authors": "九井 諒子",
+      "acquiredTime": 1741667583990,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/51MaYUnpbwL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758086815141,
+      "memo": "",
+      "rating": 0
+    },
+    "B07496Z2GC": {
+      "title": "ダンジョン飯 5巻 (HARTA COMIX)",
+      "authors": "九井 諒子",
+      "acquiredTime": 1741667583806,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/51plj0oEfNL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758086815141,
+      "memo": "",
+      "rating": 0
+    },
+    "B06W9DMNYZ": {
+      "title": "ダンジョン飯 4巻 (HARTA COMIX)",
+      "authors": "九井 諒子",
+      "acquiredTime": 1741667583797,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/51FHFXo74ZL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758086815141,
+      "memo": "",
+      "rating": 0
+    },
+    "B07X6TBGKH": {
+      "title": "ダンジョン飯 8巻 (HARTA COMIX)",
+      "authors": "九井 諒子",
+      "acquiredTime": 1741667583792,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/51-ScPJRgDL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758086815141,
+      "memo": "",
+      "rating": 0
+    },
+    "B07BVMWHMF": {
+      "title": "ダンジョン飯 6巻 (HARTA COMIX)",
+      "authors": "九井 諒子",
+      "acquiredTime": 1741667583754,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/51wI9yZCLFL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758086815141,
+      "memo": "",
+      "rating": 0
+    },
+    "B087PT6C9R": {
+      "title": "ダンジョン飯 9巻 (HARTA COMIX)",
+      "authors": "九井 諒子",
+      "acquiredTime": 1741667583561,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/51bMis-QqQL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758086815141,
+      "memo": "",
+      "rating": 0
+    },
+    "B08VD99Z37": {
+      "title": "ダンジョン飯 10巻 (HARTA COMIX)",
+      "authors": "九井 諒子",
+      "acquiredTime": 1741667583556,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/516-o0u8Q1L.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758086815141,
+      "memo": "",
+      "rating": 0
+    },
+    "B0CP8ZBLNG": {
+      "title": "ダンジョン飯 14巻 (HARTA COMIX)",
+      "authors": "九井 諒子",
+      "acquiredTime": 1741667583546,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/51AEoJHya+L.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758086815141,
+      "memo": "",
+      "rating": 0
+    },
+    "B0CP8YS5S7": {
+      "title": "ダンジョン飯 13巻 (HARTA COMIX)",
+      "authors": "九井 諒子",
+      "acquiredTime": 1741667583537,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/51DRJQsX-6L.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758086815141,
+      "memo": "",
+      "rating": 0
+    },
+    "B09F5SWZPH": {
+      "title": "ダンジョン飯 11巻 (HARTA COMIX)",
+      "authors": "九井 諒子",
+      "acquiredTime": 1741667583342,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/51zpMarrv+L.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758086815141,
+      "memo": "",
+      "rating": 0
+    },
+    "B0CH838HQ3": {
+      "title": "ちょこっと人体解剖学で圧倒的にうまく描けるキャラクターデッサン",
+      "authors": "みにまる",
+      "acquiredTime": 1754753104366,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://m.media-amazon.com/images/I/515s8PY+3RL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758087932770,
+      "memo": "",
+      "rating": 0
+    },
+    "B0DJGCZ5ZW": {
+      "title": "もふっとかわいい ケモミミ描き方図鑑",
+      "authors": "絹谷 ゆたか, クノオ, いぬやよ",
+      "acquiredTime": 1754752904177,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://m.media-amazon.com/images/I/51nSOs60XfL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758087932770,
+      "memo": "",
+      "rating": 0
+    },
+    "B0F8MQ7KNF": {
+      "title": "lackがしっかり教える「ラフ」の秘訣　絵作りを加速する作画流儀",
+      "authors": "lack",
+      "acquiredTime": 1753575574735,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://m.media-amazon.com/images/I/51JmlYaS5rL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758087932770,
+      "memo": "",
+      "rating": 0
+    },
+    "B0CW1NQ5NZ": {
+      "title": "川口イッサ おんなのこイラストポーズ集　自然でかわいい日常ポーズ350",
+      "authors": "川口イッサ",
+      "acquiredTime": 1733468457448,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://m.media-amazon.com/images/I/41oHHtPvs3L.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758087932770,
+      "memo": "",
+      "rating": 0
+    },
+    "B085XTX18B": {
+      "title": "動きとシワがよくわかる 衣服の描き方図鑑 服の仕組みから角度別の描き方まで (絵画・技法書)",
+      "authors": "らびまる",
+      "acquiredTime": 1733319723747,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://m.media-amazon.com/images/I/51BBXh2V1vL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758087932770,
+      "memo": "",
+      "rating": 0
+    },
+    "B091GSDXQ4": {
+      "title": "絵がふつうに上手くなる本　はじめの一歩×上手い絵の技術×安定して稼ぐ秘訣",
+      "authors": "よー清水",
+      "acquiredTime": 1712814897040,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://m.media-amazon.com/images/I/51l0To1VuML.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758087932770,
+      "memo": "",
+      "rating": 0
+    },
+    "B01MY0EK67": {
+      "title": "メイドインアビス（５） (バンブーコミックス)",
+      "authors": "つくしあきひと",
+      "acquiredTime": 1712648030269,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://m.media-amazon.com/images/I/51VBUwjKbOL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758087932770,
+      "memo": "",
+      "rating": 0
+    },
+    "B01EY302KQ": {
+      "title": "メイドインアビス（４） (バンブーコミックス)",
+      "authors": "つくしあきひと",
+      "acquiredTime": 1712648030203,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://m.media-amazon.com/images/I/51gpRFEBOqL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758087932770,
+      "memo": "",
+      "rating": 0
+    },
+    "B00ZTXKHS8": {
+      "title": "メイドインアビス（３） (バンブーコミックス)",
+      "authors": "つくしあきひと",
+      "acquiredTime": 1712648030067,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://m.media-amazon.com/images/I/61O3vWLGX3L.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758087932770,
+      "memo": "",
+      "rating": 0
+    },
+    "B00KYEH7GW": {
+      "title": "メイドインアビス（１） (バンブーコミックス)",
+      "authors": "つくしあきひと",
+      "acquiredTime": 1712648029867,
+      "readStatus": "READ",
+      "productImage": "https://m.media-amazon.com/images/I/61bQAya22FL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758087932770,
+      "memo": "",
+      "rating": 0
+    },
+    "B00LCVY5SO": {
+      "title": "メイドインアビス（２） (バンブーコミックス)",
+      "authors": "つくしあきひと",
+      "acquiredTime": 1712648029675,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://m.media-amazon.com/images/I/61MSISXLBmL.jpg",
+      "source": "kindle_import",
+      "addedDate": 1758087932770,
+      "memo": "",
+      "rating": 0
+    }
+  },
+  "bookshelves": [
+    {
+      "id": "bookshelf_1758087998712",
+      "name": "お絵かきの本",
+      "emoji": "🖌",
+      "description": "",
+      "books": [
+        "B0CH838HQ3",
+        "B0DJGCZ5ZW",
+        "B0F8MQ7KNF",
+        "B0CW1NQ5NZ",
+        "B085XTX18B",
+        "B091GSDXQ4"
+      ],
+      "createdAt": "2025-09-17T05:46:38.712Z"
+    },
+    {
+      "id": "bookshelf_1758086785306",
+      "name": "ダンジョン飯",
+      "emoji": "🍖",
+      "description": "センシかわいい、すき",
+      "books": [
+        "B013HF83DA",
+        "B00S0E4JW8",
+        "B01JY4SIBK",
+        "B07Q3BMDH7",
+        "B0B7R8RD4X",
+        "B07496Z2GC",
+        "B06W9DMNYZ",
+        "B07X6TBGKH",
+        "B07BVMWHMF",
+        "B087PT6C9R",
+        "B08VD99Z37",
+        "B0CP8ZBLNG",
+        "B0CP8YS5S7",
+        "B09F5SWZPH"
+      ],
+      "createdAt": "2025-09-17T05:26:25.306Z"
+    },
+    {
+      "id": "bookshelf_1758088115000",
+      "name": "メイドインアビス",
+      "emoji": "⛏",
+      "description": "",
+      "books": [
+        "B00KYEH7GW",
+        "B00LCVY5SO",
+        "B00ZTXKHS8",
+        "B01EY302KQ",
+        "B01MY0EK67"
+      ],
+      "createdAt": "2025-09-17T05:48:35.000Z"
+    }
+  ],
+  "settings": {
+    "defaultView": "hybrid",
+    "showHighlights": true,
+    "currentBookshelf": "all",
+    "theme": "light",
+    "booksPerPage": "50",
+    "showImagesInOverview": false,
+    "coverSize": "medium"
+  },
+  "bookOrder": {
+    "bookshelf_1758086785306": [
+      "B00S0E4JW8",
+      "B013HF83DA",
+      "B01JY4SIBK",
+      "B06W9DMNYZ",
+      "B07496Z2GC",
+      "B07BVMWHMF",
+      "B07Q3BMDH7",
+      "B07X6TBGKH",
+      "B087PT6C9R",
+      "B08VD99Z37",
+      "B09F5SWZPH",
+      "B0B7R8RD4X",
+      "B0CP8YS5S7",
+      "B0CP8ZBLNG"
+    ],
+    "bookshelf_1758088115000": [
+      "B00KYEH7GW",
+      "B00LCVY5SO",
+      "B00ZTXKHS8",
+      "B01EY302KQ",
+      "B01MY0EK67"
+    ],
+    "all": [
+      "B00S0E4JW8",
+      "B013HF83DA",
+      "B01JY4SIBK",
+      "B06W9DMNYZ",
+      "B07496Z2GC",
+      "B07BVMWHMF",
+      "B07Q3BMDH7",
+      "B07X6TBGKH",
+      "B087PT6C9R",
+      "B08VD99Z37",
+      "B09F5SWZPH",
+      "B0B7R8RD4X",
+      "B0CP8YS5S7",
+      "B0CP8ZBLNG",
+      "B0CH838HQ3",
+      "B0DJGCZ5ZW",
+      "B0F8MQ7KNF",
+      "B0CW1NQ5NZ",
+      "B085XTX18B",
+      "B091GSDXQ4",
+      "B00KYEH7GW",
+      "B00LCVY5SO",
+      "B00ZTXKHS8",
+      "B01EY302KQ",
+      "B01MY0EK67"
+    ]
+  },
+  "stats": {
+    "totalBooks": 25,
+    "notesCount": 0
+  },
+  "version": "2.0"
+}
