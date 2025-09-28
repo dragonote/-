@@ -1,13 +1,14 @@
 /* Virtual Bookshelf Styles */
 :root {
-  --primary-color: #005dd3;  
-  --secondary-color: #1589ed6; 
-  --accent-color: #193450;   
-  --bg-color: #193450;      
-  --card-bg-color: #191e2d;  
-  --text-color: #f0f0f0;    
-  --border-color: #2a2c3a;   
-  --shadow-color: rgba(0, 0, 0, 0.5);  --book-width: 160px;
+  --primary-color: #272727;
+  --secondary-color: #1589ed6;
+  --accent-color: #afc9e4;
+  --bg-color: #f1f5ff;
+  --card-bg-color: #191e2d;
+  --text-color: #213155;
+  --border-color: #2a2c3a;
+  --shadow-color: rgba(211, 235, 255, 0.753);
+  --book-width: 160px;
   --book-height: 240px;
 }
 
@@ -152,10 +153,10 @@ body {
 
 .filter-section,
 .stats-section {
-  background-color: rgba(255, 255, 255, 0.15);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
-  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.15);
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px var(--shadow-color);
   margin-bottom: 1.5rem;
 }
 
@@ -220,10 +221,10 @@ body {
 /* Bookshelf Container */
 .bookshelf-container {
   flex: 1;
-  background-color: rgba(255, 255, 255, 0.15);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
-  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.15) ;
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 2px 10px var(--shadow-color);
 }
 
 .loading {
